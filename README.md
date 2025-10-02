@@ -5,9 +5,9 @@ A Python AI/ML application that uses OpenAI Gymnasium and Markov Decision Proces
 ## Screenshots
 
 ![Best Solution](visualizations/best_solution.png)
+![Training Progress](visualizations/training_progress.png)
 ![Journey Timeline](visualizations/journey_timeline.png)
 ![Summary](visualizations/summary.png)
-![Training Progress](visualizations/training_progress.png)
 
 
 ## Setup
